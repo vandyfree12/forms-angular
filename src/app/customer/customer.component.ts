@@ -8,7 +8,8 @@ import { Customer }    from '../customer';
   styleUrls: ['./customer.component.css']
 })
 export class CustomerComponent {
-  nationalities =['','Afghanistan','Albana','Algeria','Andorra','Angola','Anguilla','Antigua','Armenia'];
+  nationalities =['','Afghanistan','Albana','Algeria','Andorra'
+  ,'Angola','Anguilla','Antigua','Armenia','Ghana'];
 	
 
   customer = new Customer(1, '', '', 23);
