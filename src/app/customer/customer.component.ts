@@ -9,7 +9,7 @@ import { Customer }    from '../customer';
 })
 export class CustomerComponent {
   nationalities =['','Afghanistan','Albana','Algeria','Andorra'
-  ,'Angola','Anguilla','Antigua','Armenia','Ghana'];
+  ,'Angola','Anguilla','Antigua','Armenia','Ghana','Togo'];
 	
 
   customer = new Customer(1, '', '', 23);
