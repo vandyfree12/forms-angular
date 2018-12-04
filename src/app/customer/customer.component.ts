@@ -17,6 +17,6 @@ export class CustomerComponent {
   submitted = false;
 
   onSubmit() { 
-    this.submitted = true; 
+    this.submitted = true;  
   }
 }
